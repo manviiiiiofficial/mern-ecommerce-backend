@@ -1,0 +1,4 @@
+*test= auto
+*.js text
+*.json text
+*.md text
